@@ -1,7 +1,7 @@
 # Java Snake Game
 
 A grid-based Snake game written in Java as a personal programming project. The game runs in a graphical window and uses an object-oriented structure to manage the snake, apples, walls, movement, and collisions.
-
+<img width="980" height="737" alt="image" src="https://github.com/user-attachments/assets/884d214d-92e9-4031-b7f8-4601c5b0f6e4" />
 ## Features
 
 - Control the snake with the **arrow keys**.
